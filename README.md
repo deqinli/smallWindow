@@ -1,0 +1,2 @@
+# smallWindow
+Qt使用QGraphicsView放大缩小图像，并可观察当前放大图像在整幅图像中的位置区域
